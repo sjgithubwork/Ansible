@@ -1,0 +1,30 @@
+https://gist.github.com/kenzo0107/f204c7af2b764d15a6c6
+
+sudo yum -y install gcc gcc-c++ kernel-devel
+sudo yum -y install python-devel libxslt-devel libffi-devel openssl-devel
+pip install cryptography
+
+
+ssh-keygen -t rsa -b 4096 -C "linux1@148.100.4.109"
+
+///////////////////////////////////////////////////////////
+
+Putty download link - https://developer.ibm.com/linuxone/wp-content/uploads/sites/57/2016/02/PUTTY-Set-up.pdf
+
+putty exe link - http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+
+server setup - https://developer.ibm.com/linuxone/wp-content/uploads/sites/57/virtual-servers-quick-start.pdf
+
+instance details - https://linuxone20.cloud.marist.edu/cloud/#/instance
+
+
+linux1, Ghatkopar1*
+
+user1 - suyogjosh16@gmail.com [148.100.4.109]
+user2 - satishjosh1954@gmail.com [148.100.4.171]
+
+///////////////////////////////////////////////////////////
+
+
+
+
