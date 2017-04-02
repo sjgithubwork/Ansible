@@ -1,0 +1,14 @@
+ansible-playbook --version
+
+ansible-playbook file.yml --list-tasks
+
+ansible-playbook file.yml -i hosts --step
+
+ansible-playbook --tags=java file.yml
+
+ansible-playbook --tags=tag_name file.yml
+
+
+-----------
+
+
