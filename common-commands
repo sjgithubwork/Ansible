@@ -8,6 +8,9 @@ ansible-playbook --tags=java file.yml
 
 ansible-playbook --tags=tag_name file.yml
 
+ansible-playbook file.yml --tags "tage_name"
+ansible-playbook file.yml --skip-tags "tag_name"
+
 
 -----------
 
