@@ -18,7 +18,6 @@ server setup - https://developer.ibm.com/linuxone/wp-content/uploads/sites/57/vi
 instance details - https://linuxone20.cloud.marist.edu/cloud/#/instance
 
 
-linux1, Ghatkopar1*
 
 user1 -  [148.100.4.109]
 user2 - [148.100.4.171]
