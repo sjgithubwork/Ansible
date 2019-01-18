@@ -20,8 +20,8 @@ instance details - https://linuxone20.cloud.marist.edu/cloud/#/instance
 
 linux1, Ghatkopar1*
 
-user1 - suyogjosh16@gmail.com [148.100.4.109]
-user2 - satishjosh1954@gmail.com [148.100.4.171]
+user1 -  [148.100.4.109]
+user2 - [148.100.4.171]
 
 ///////////////////////////////////////////////////////////
 
